@@ -9,4 +9,3 @@ def test_sub():
     assert sub(-6,4)==-10
     assert sub(-1,-1)==0
     
-    
